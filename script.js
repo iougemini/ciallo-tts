@@ -10,8 +10,7 @@ const API_CONFIG = {
         authToken: 'sk-niege365'
     },
     'deno-api': {
-        url: 'https://narrow-horse-31.deno.dev/tts',
-        authToken: 'sk-niege365'        
+        url: 'https://narrow-horse-31.deno.dev/tts'
     }
 };
 
